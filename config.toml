@@ -1,6 +1,6 @@
 baseURL = "https://www.intapartments.com"
 languageCode = "en-us"
-title = "Parsa | Personal Blog Template"
+title = "IntApartments | A World of Beautiful Places to Live"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -66,15 +66,15 @@ home = "Home"
 # hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
 homeLayoutToggle = true
 # Meta data
-description = "This is meta description"
+description = "IntApartments | A World of Beautiful Places to Live"
 # about author
-author = "Themefisher"
+author = "IntApartments"
 authorImage = "images/banner-img.png"
-shortDescription = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+shortDescription = "Highlighting the best in international apartments and beautiful places to live."
 # Contact Form Action
 contactFormAction = "#"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-141773226-1"
 # copyright
 copyright = "a theme by [themefisher.com](themefisher.com)"
 
