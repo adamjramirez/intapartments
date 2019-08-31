@@ -48,23 +48,13 @@ paginate = 6
   
 # navigation
 [menu]
-    
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 2
-  
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 3
 
 
 [params]
 logo = "images/logo.png"
 home = "Home"
 # hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
-homeLayoutToggle = true
+homeLayoutToggle = false
 # Meta data
 description = "IntApartments | Making it easier to find a place to live"
 # about author
