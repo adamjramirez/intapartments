@@ -1,0 +1,10 @@
+---
+title: Join Waitlist
+sidebar: true
+sidebarlogo: fresh-white-alt
+---
+
+<form action="{{ .Site.Params.mailchimpURL }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	<input type="email" placeholder="Enter email to signup" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button">
+</form>

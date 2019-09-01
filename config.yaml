@@ -11,6 +11,7 @@ params:
   font:
     name: "Open Sans"
     sizes: [400,600]
+  mailChimpURL: "https://intapartments.us4.list-manage.com/subscribe/post?u=9aa01c8d9a61e0a6b06dd03b9&amp;id=e4d1e17926"
   hero:
     # Main hero title
     title: Living. Made easy.
