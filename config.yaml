@@ -6,7 +6,7 @@ theme: hugo-fresh
 params:
   navbarlogo:
   # Logo (from static/images/logos/___)
-   image: logos/fresh.svg
+   image: logos/logo.png
    link: /
   font:
     name: "Open Sans"
@@ -16,7 +16,7 @@ params:
     # Main hero title
     title: Living. Made easy.
     # Hero subtitle (optional)
-    subtitle: Find a place to live, easier than before.
+    subtitle: Want to only see flats that suit you? Tired of all the paperwork, over and over? So are we. Join the waitlist to be updated when we are ready to launch.
     # Button text
     buttontext: Join Waitlist
     # Where the main hero button links to
@@ -34,8 +34,11 @@ params:
   navbar:
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
-    # Social media links (GitHub, Twitter, etc.). All are optional.
+    logo: logo-alt.png
+  # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
+    - link: https://instagram.com/intapartments
+      icon: instagram
+
      
     bulmalogo: false
